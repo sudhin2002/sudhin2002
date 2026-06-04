@@ -1,75 +1,96 @@
+
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&color=00C2FF&duration=4000&lines=Hi+There!+👋;+I'm+Sudhin+K!;+Python+Developer;+Full+Stack+Developer;+Backend+Enthusiast;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=700&height=70&color=00C2FF&duration=4000&lines=Hi+There!+👋;+I'm+Sudhin+K!;+Full+Stack+Developer;+Angular+%7C+React+%7C+Node.js;+Python+Developer;+Backend+Enthusiast;" />
 </h1>
 
 
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="20"> **About Me**
+
 <img align="right" alt="Coding" width="350" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
-## 🚀 About Me
-
 - 🎓 MCA Graduate
-- 💻 Python Full Stack Developer
-- 🌐 Building Web Applications using Django & REST APIs
-- 📱 Developed Mobile Applications using Flutter
-- 🤖 Interested in AI, Backend Systems & Automation
-- 🔍 Passionate about solving real-world problems through technology
-- 🌱 Currently exploring System Design, AI Engineering & Cloud Technologies
+- 💻 Full Stack Developer
+- ⚡ Building scalable web applications using Angular, React & Node.js
+- 🐍 Python Developer with experience in Django and REST APIs
+- 🌐 Interested in WebRTC, Real-Time Communication & System Design
+- 🚀 Passionate about Backend Development and Cloud Technologies
+- 🤖 Exploring AI Engineering, Automation & Modern Web Architectures
 
-<br>
+
+<br clear="both"/>
+
+
+<img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="20"> **Reach Out To Me**
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/sudhin-k">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="40">
+</a>
+
+
+<a href="mailto:sudhin.k2002@gmail.com">
+<img src="https://cdn.simpleicons.org/gmail" width="40"/>
+</a>
+
+<a href="https://github.com/sudhin2002">
+<img src="https://skillicons.dev/icons?i=github" width="45">
+</a>
+
+</p>
 
 ---
 
-## 🛠️ Tech Stack
+## <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="20"> Tech Stack
 
 ### Languages
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,dart,javascript,html,css" />
+  <img src="https://skillicons.dev/icons?i=python,typescript,javascript,dart,html,css" />
 </p>
 
-### Backend & Frameworks
+### Frontend
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=django,flutter" />
+  <img src="https://skillicons.dev/icons?i=angular,react,bootstrap" />
+</p>
+
+### Backend
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,django" />
 </p>
 
 ### Database
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
 </p>
 
 ### Tools & Platforms
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,firebase" />
 </p>
 
 ---
 
+<br>
 
-## 🌐 Connect With Me
+<details>
+  <summary>  <img src="https://media.giphy.com/media/c8knYYZ5vzC8V6tpMI/giphy.gif" width="15" height="15">  <b>Profile Summary</b></summary>
+
+
+<br>
 
 <p align="center">
-
-<a href="https://www.linkedin.com/in/sudhin-k">
-<img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:sudhin.k2002@gmail.com">
-<img src="https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/sudhin2002">
-<img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white"/>
-</a>
-
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sudhin2002&theme=github_dark" />
 </p>
 
+
+
+</details>
+
+
+
 ---
-
-
-
-## 💡 Quote
-
-> "Code is not just about making things work. It's about building solutions that create value."
